@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Seus estilos globais do antigo style.css podem vir aqui */
 body {
     font-family: 'Inter', sans-serif;
     background-color: #f3f4f6;
